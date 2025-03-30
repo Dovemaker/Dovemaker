@@ -5,6 +5,6 @@
 - 📫 You can reach me on here
 
 <!---
-Dovemaker/Dovemaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dovemaker/Dovemaker is a ✨ special ✨ repository because its `README.md` (Dovemaker) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
